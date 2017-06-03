@@ -8,3 +8,4 @@ creating a new branch is simple and quick.
 creating a new branch dev.
 i am working now.
 work end.
+git push origin dev
